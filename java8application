@@ -1,5 +1,6 @@
 public class A{
 public static void main(String args[]){{
-System.out.println("this is Git First Application");
+System.out.println("this is Git First Application
+System.out.println("Ganesh");
 }
 }
